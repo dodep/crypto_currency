@@ -1,7 +1,8 @@
+.gitignore
 .DS_Store
 node_modules
 /dist
-
+vue.config.js
 # local env files
 .env.local
 .env.*.local
@@ -20,3 +21,4 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+01.txt
