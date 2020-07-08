@@ -1,5 +1,6 @@
 Simple SPA application with WebSocket protocol  
 
+GitHub Pages Deploy:  
 1. create git repository(GitHub) 'my-first-project'  
 2. create local branch (git branch gh-pages)  
 3. vue.config.js (root directory)  
