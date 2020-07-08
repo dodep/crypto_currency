@@ -1,11 +1,11 @@
 Simple SPA application with WebSocket protocol  
 
 GitHub Pages Deploy:  
-1. create git repository(GitHub) 'my-first-project'  
+1. create git repository(GitHub) 'crypto_currency'  
 2. create local branch (git branch gh-pages)  
 3. vue.config.js (root directory)  
     module.exports = {  
-    publicPath: ‘/my-first-project/’  
+    publicPath: ‘/crypto_currency/’  
     }  
 4. remove ‘/dist’ from .gitignore  
 5. npm run build  
